@@ -1,5 +1,5 @@
-<h1 align="center">DicoFoodAPI</h1>
-<h1><img src="https://ik.imagekit.io/xguomcqgelu/DicoFoodAPI_Swargger_auT2TI0bf.png?updatedAt=1628221338501"/></h1>
+<h1 align="center">LancheAPI</h1>
+<h1><img src="https://ik.imagekit.io/xguomcqgelu/LancheAPI_Swargger_auT2TI0bf.png?updatedAt=1628221338501"/></h1>
 
 ## 📚 Sobre
 
